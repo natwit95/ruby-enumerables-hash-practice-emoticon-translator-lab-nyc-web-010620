@@ -1,6 +1,7 @@
 # require modules here
 
 def load_library(file_path)
+value = {}
   # code goes here
 end
 
