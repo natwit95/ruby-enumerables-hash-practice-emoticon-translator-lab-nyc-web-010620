@@ -1,7 +1,7 @@
 # require modules here
 
 def load_library(file_path)
-value = {:key, :key}
+value = {:key => values, :key => values}
   # code goes here
 end
 
